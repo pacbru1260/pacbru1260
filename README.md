@@ -1,11 +1,1 @@
-### My name's Bruna, but you can call me pac or pacbru
-- 🇧🇷 São Paulo
-- :penguin: I enjoy coding as a hobby
-- Languages I know (newbie):
-  - JavaScript
-  - Python (a little bit)
-  - Shell
-- Pronouns: she/her
-- ☺️ you can reach me out by:
-  - discord: pacbru#8615
-  - email: bpacini7@gmail.com
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pacbru1260)](https://github.com/anuraghazra/github-readme-stats)
